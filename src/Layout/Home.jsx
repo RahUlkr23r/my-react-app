@@ -42,7 +42,7 @@ export default function Home(){
               {/* Profile Image */}
               <div className="col-12 col-lg-6 d-flex justify-content-center">
                 <img
-                  src="/public/image/WhatsApp Image 2025-03-25 at 19.06.08_40c3bbf5.jpg" // Place your image inside /public/image/
+                  src="/image/WhatsApp Image 2025-03-25 at 19.06.08_40c3bbf5.jpg" // Place your image inside /public/image/
                   className="img-fluid rounded-circle shadow-lg"
                   alt="Rahul Kumar - Portfolio"
                   width={350}
